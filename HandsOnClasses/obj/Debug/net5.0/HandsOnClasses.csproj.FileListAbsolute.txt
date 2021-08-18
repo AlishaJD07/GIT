@@ -1,0 +1,16 @@
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.csproj.AssemblyReference.cache
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.AssemblyInfoInputs.cache
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.AssemblyInfo.cs
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.csproj.CoreCompileInputs.cache
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\HandsOnClasses.exe
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\HandsOnClasses.deps.json
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\HandsOnClasses.runtimeconfig.json
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\HandsOnClasses.runtimeconfig.dev.json
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\HandsOnClasses.dll
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\ref\HandsOnClasses.dll
+F:\Module1\C#\HandsOnClasses\bin\Debug\net5.0\HandsOnClasses.pdb
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.dll
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\ref\HandsOnClasses.dll
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.pdb
+F:\Module1\C#\HandsOnClasses\obj\Debug\net5.0\HandsOnClasses.genruntimeconfig.cache
